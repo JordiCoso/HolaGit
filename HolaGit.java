@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-public class HolaGit {public static void main(String[] args) {System.out.println("Hola soy calculaitor 2 ahora es personal"); System.out.println("Hola desde mi rama Jordi"); }} 
-=======
 public class HolaGit {public static void main(String[] args) {System.out.println("Hola soy calculaitor 2 ahora es personal"); System.out.println("Hola desde mi rama Jordi"); System.out.println("Hola desde mi rama Erik"); System.out.println("Hola desde mi rama Josep");}} 
->>>>>>> main
